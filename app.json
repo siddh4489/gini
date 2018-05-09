@@ -6,11 +6,11 @@
   "env": {
     "APIAI_TOKEN": {
       "description": "API.ai Client access token",
-      "value": ""
+      "value": "4422e165d91847468fcc8f1d0a06f94f"
     },
     "APIAI_SESSION_ID": {
       "description": "An arbitrary string",
-      "value": ""
+      "value": "5b1a7825f2d14c33883246a34e22d45b"
     }
   },
   "image": "heroku/nodejs"
